@@ -34,8 +34,8 @@ Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
 Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
 
 ## Check us out:
-EVC Organizational Website:  [I'm an inline-style link](https://www.evc.org)
-We Are All Connected Urban / Rural Project:  weareallconnected.wixsite.com/weareallconnected
+EVC Organizational Website:  [https://www.evc.org]
+We Are All Connected Urban / Rural Project:  [https://www.weareallconnected.wixsite.com/weareallconnected]
 
 ## Thank You!!
 
