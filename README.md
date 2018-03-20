@@ -27,12 +27,24 @@ Let’s do a project together!!
 Help us raise funds to work partner with rural organizations and their youth!
  
 The We Are All Connected Youth Media Curriculum will:
-Create a space for urban and rural youth to collaboratively create films and other media projects about their communities, building relationships with each other 
-Provide lessons and other sources of information that guide urban and rural educators from all levels of experience with film and media technology on how to facilitate collaborative youth media projects.     
+
+1.  Create a space for urban and rural youth to collaboratively create films and other media projects about their communities, building relationships with each other 
+
+2.  Provide lessons and other sources of information that guide urban and rural educators from all levels of experience with film and media technology on how to facilitate collaborative youth media projects.     
+
 ## Contact Us:
 Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
 
 Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
+
+## Find out more
+You might be interested in:
+Our curriculum
+Our Open Canvas plan
+
+And of course, you'll want to know our:
+Contributors' guidelines
+Roadmap
 
 ## Check us out:
 EVC Organizational Website:  https://www.evc.org
@@ -40,5 +52,7 @@ EVC Organizational Website:  https://www.evc.org
 We Are All Connected Urban / Rural Project:  https://www.weareallconnected.wixsite.com/weareallconnected
 
 ## Thank You!!
+Thank you so much (Danke schön! Merci beaucoup! Gracias! Obrigad@!) for visiting the project and we do hope that you'll join us on this amazing journey to make collaborative media with rural communities.
+
 
 ## Glossary:
