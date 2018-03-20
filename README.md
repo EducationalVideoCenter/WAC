@@ -42,7 +42,7 @@ You might be interested in:
 
 Our curriculum
 
-Our Open Canvas plan
+Our Open Canvas plan:  https://docs.google.com/presentation/d/1iQTmLv9rVd47jRD1ozcyJC_FLXDXRTGRAePbutv_QXk/edit#slide=id.p
 
 
 And of course, you'll want to know our:
