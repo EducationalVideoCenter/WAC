@@ -15,7 +15,7 @@ Our curriculum is project-based, student-centered and grounded in social justice
 ### What are we doing?
 The We are All Connected open educational resource site works to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world.
  
-### The project
+### The Project
 There is a societal urban/rural divide among communities in the United States and beyond
 Young people aren’t provided enough resources, opportunities and guidance for connecting with youth from different spaces to collaboratively address issues that are meaningful to them 
 Many educators may be interested in facilitating cross regional projects that connect youth, but lack the experience and guidance on how to carry out such projects  
@@ -30,6 +30,12 @@ The We Are All Connected Youth Media Curriculum will:
 Create a space for urban and rural youth to collaboratively create films and other media projects about their communities, building relationships with each other 
 Provide lessons and other sources of information that guide urban and rural educators from all levels of experience with film and media technology on how to facilitate collaborative youth media projects.     
 ## Contact Us:
+Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
+Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
+
+## Check us out:
+EVC Organizational Website:  [I'm an inline-style link](https://www.evc.org)
+We Are All Connected Urban / Rural Project:  weareallconnected.wixsite.com/weareallconnected
 
 ## Thank You!!
 
