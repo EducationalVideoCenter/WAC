@@ -49,7 +49,7 @@ And of course, you'll want to know our:
 
 Contributors' guidelines
 
-[Roadmap] [https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit]
+[Roadmap]: https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit
 
 ## Check us out:
 EVC Organizational Website:  https://www.evc.org
