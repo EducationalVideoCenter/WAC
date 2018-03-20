@@ -31,10 +31,12 @@ Create a space for urban and rural youth to collaboratively create films and oth
 Provide lessons and other sources of information that guide urban and rural educators from all levels of experience with film and media technology on how to facilitate collaborative youth media projects.     
 ## Contact Us:
 Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
+
 Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
 
 ## Check us out:
 EVC Organizational Website:  https://www.evc.org
+
 We Are All Connected Urban / Rural Project:  https://www.weareallconnected.wixsite.com/weareallconnected
 
 ## Thank You!!
