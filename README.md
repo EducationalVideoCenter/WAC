@@ -4,7 +4,7 @@
 We Are All Connected youth media curriculum 
 Bridging urban and rural divides through collaborative youth empowered media.   
 ## Welcome!
-Welcome! Willkommen! Bienvenue!
+Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
 Thank you for visiting the We Are All Connected Curriculum repository.
 This document (the README file) is a hub to give you some information about the project. 
 ## Who are we?
@@ -39,11 +39,15 @@ Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
 
 ## Find out more
 You might be interested in:
+
 Our curriculum
+
 Our Open Canvas plan
 
 And of course, you'll want to know our:
+
 Contributors' guidelines
+
 Roadmap
 
 ## Check us out:
