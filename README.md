@@ -1,6 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/EVClogo1.gif)
 
-## Welcome! :smiley:
+# Welcome! :smiley:
 
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
 Thank you for visiting the We Are All Connected Curriculum repository.
@@ -67,7 +67,7 @@ Contributors' guidelines
 [Roadmap](https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit)
 
 ## Check us out:
-EVC Organizational Website:  https://www.evc.org
+[EVC Organizational Website]  (https://www.evc.org)
 
 We Are All Connected Urban / Rural Project:  https://www.weareallconnected.wixsite.com/weareallconnected
 
