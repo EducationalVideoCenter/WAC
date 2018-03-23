@@ -37,7 +37,7 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+Notice a mistake? Please file any bugs, requests, or questions in our [Issue Tracker](https://github.com/EducationalVideoCenter/WAC/issues/2)!
 
 ## Communication channels
 
