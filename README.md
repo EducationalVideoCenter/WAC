@@ -67,15 +67,16 @@ Contributors' guidelines
 [Roadmap](https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit)
 
 ## Check us out:
-[EVC Organizational Website]  (https://www.evc.org)
+[EVC Organizational Website](https://www.evc.org)
 
-We Are All Connected Urban / Rural Project:  https://www.weareallconnected.wixsite.com/weareallconnected
+[We Are All Connected Urban / Rural Project](https://www.weareallconnected.wixsite.com/weareallconnected)
 
-## Thank You!!
+## Thank You!! :smiley:
 Thank you so much (Danke schön! Merci beaucoup! Gracias! Obrigad@!) for visiting the project and we do hope that you'll join us on this amazing journey to make collaborative media with rural communities.
 
 
 ## Glossary:
+
 
 ## License:
 
