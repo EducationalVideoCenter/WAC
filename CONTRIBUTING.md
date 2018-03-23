@@ -14,7 +14,7 @@ This documents is a set of guidelines for contributing to WAC on GitHub. These a
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a (CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to mgrueser@evc.org.
 
 ## What we're working on
 
@@ -37,12 +37,12 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 ## How to report bugs
 
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+Any questions or comments feel free to message us!
+
+Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
+
+Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
