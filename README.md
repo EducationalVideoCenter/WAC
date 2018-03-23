@@ -2,7 +2,7 @@
 # WAC
 We Are All Connected youth media curriculum:  
 Bridging urban and rural divides through collaborative youth empowered media.   
-## Welcome! :smiling face
+## Welcome! :smiling face:
 
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
 Thank you for visiting the We Are All Connected Curriculum repository.
