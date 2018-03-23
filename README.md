@@ -20,12 +20,7 @@ Based in the heart of New York City with over thirty years of experience, the Ed
 Our curriculum is project-based, student-centered and grounded in social justice and civic engagement.  Please feel free to contribute to this curriculum if you would like to share lessons, activities and urban / rural project development tips.
  
 ### What are we doing?
-The We are All Connected open educational resource site works to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world.
- 
-### The Project
-There is a societal urban/rural divide among communities in the United States and beyond
-Young people aren’t provided enough resources, opportunities and guidance for connecting with youth from different spaces to collaboratively address issues that are meaningful to them 
-Many educators may be interested in facilitating cross regional projects that connect youth, but lack the experience and guidance on how to carry out such projects  
+The We are All Connected open educational resource site works to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world  
 
 ## Contributing
 
@@ -33,8 +28,11 @@ Thanks for your interest in contributing to [We Are All Connected]! There are ma
 
 ### How can I get involved?
 Use our Curriculum!!
+
 Contribute to our curriculum!!
+
 Let’s do a project together!!
+
 Help us raise funds to work partner with rural organizations and their youth!
  
 The We Are All Connected Youth Media Curriculum will:
@@ -82,25 +80,6 @@ Thank you so much (Danke schön! Merci beaucoup! Gracias! Obrigad@!) for visitin
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-# [ We Are All Connected:  Bridging the Urban and Rural Divide ]
-
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
-
-[ If you have one, add your logo or an image here ]
-
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
-
-## Getting Started
-
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
-
-## Contributing
-
-Thanks for your interest in contributing to [We Are All Connected]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Participation Guidelines
-
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mgrueser@evc.org].
 
 ## MozSprint
 
