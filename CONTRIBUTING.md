@@ -1,12 +1,12 @@
 # Contributing to WAC
 
->Thank you for your interest in contributing to the We Are All Connected Youth Media Curriculum (WAC)! 
+Thank you for your interest in contributing to the We Are All Connected Youth Media Curriculum (WAC)! 
 
->WAC is an open educational resource site working to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world....
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+WAC is an open educational resource site working to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world....
 
->This documents is a set of guidelines for contributing to WAC on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+
+This documents is a set of guidelines for contributing to WAC on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If your guide is long, consider adding a table of contents.
 
