@@ -49,7 +49,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 You might be interested in:
 
 Our Open Canvas plan:  
-![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/We%20Are%20All%20Connected%20Open%20Canvas.png)
+![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/images/We%20Are%20All%20Connected%20Open%20Canvas.png) 
 
 And of course, you'll want to know our:
 
