@@ -41,8 +41,8 @@ You might be interested in:
 
 Our curriculum
 
-Our Open Canvas plan:  https://docs.google.com/presentation/d/1iQTmLv9rVd47jRD1ozcyJC_FLXDXRTGRAePbutv_QXk/edit#slide=id.p
-
+Our Open Canvas plan:  
+![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/We%20Are%20All%20Connected%20Open%20Canvas.png)
 
 And of course, you'll want to know our:
 
