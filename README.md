@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/EVClogo1.gif)
+![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/images/EVClogo1.gif)
 
 # Welcome! :smiley:
 
