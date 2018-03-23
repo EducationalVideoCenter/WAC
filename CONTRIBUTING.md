@@ -2,13 +2,9 @@
 
 Thank you for your interest in contributing to the We Are All Connected Youth Media Curriculum (WAC)! 
 
-
 WAC is an open educational resource site working to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world....
 
-
 This documents is a set of guidelines for contributing to WAC on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -26,7 +22,7 @@ This is a good place to link your Roadmap, GitHub Milestones, or Projects so new
 
 > Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+Take a look at our [Roadmap](https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit)
 
 ## How to submit changes
 
