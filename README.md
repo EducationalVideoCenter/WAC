@@ -2,6 +2,8 @@
 
 # Welcome! :smiley:
 
+[![Join the chat at https://gitter.im/EducationalVideoCenter/Lobby](https://badges.gitter.im/EducationalVideoCenter/Lobby.svg)](https://gitter.im/EducationalVideoCenter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
 Thank you for visiting the We Are All Connected Curriculum repository.
 This document (the README file) is a hub to give you some information about the project. 
