@@ -1,5 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/images/EVClogo1.gif)
 
+:gitterchat:
+
 # Welcome! :smiley:
 
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
