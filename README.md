@@ -65,6 +65,8 @@ Mary Grueser, EVC Director of Professional Development:  [mgrueser@evc.org]
 
 Emmanuel Garcia, EVC Senior Media Coach: [emmanuelgarciab@gmail.com]
 
+We also have a Gitter room, [so we can chat here](https://gitter.im/EducationalVideoCenter/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ## Thank You!! :smiley:
 Thank you so much (Danke schön! Merci beaucoup! Gracias! Obrigad@!) for visiting the project and we do hope that you'll join us on this amazing journey to make collaborative media with rural communities.
 
