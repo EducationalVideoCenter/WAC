@@ -46,14 +46,9 @@ Thanks for your interest in contributing to [We Are All Connected]! There are ma
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mgrueser@evc.org].
 
 ## Find out more
-You might be interested in:
+You might be interested in our [Open Canvas plan](https://docs.google.com/presentation/d/1iQTmLv9rVd47jRD1ozcyJC_FLXDXRTGRAePbutv_QXk/edit#slide=id.p)
 
-Our Open Canvas plan:  
-![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/images/We%20Are%20All%20Connected%20Open%20Canvas.png) 
-
-And of course, you'll want to know our:
-
-[Roadmap](https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit)
+And of course, you'll want to know our [Roadmap](https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit)
 
 ## Check us out:
 [EVC Organizational Website](https://www.evc.org)
