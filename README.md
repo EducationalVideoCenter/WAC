@@ -1,3 +1,7 @@
+# The Open Urban-Rural Curriculum Project
+
+
+
 ![alt text](https://raw.githubusercontent.com/EducationalVideoCenter/WAC/master/images/EVClogo1.gif)
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/EducationalVideoCenter/Lobby)
