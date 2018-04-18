@@ -23,6 +23,8 @@ We need your input to develope this open curriculum as a resource to teach filmm
 
 Our urban-rural program, [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected), is currently working with youth in New York City and the Appalachian Mountain region of Tennessee to create collaborative documentary films.
 
+
+
 ### HOW CAN YOU HELP?
 Thanks for your interest in contributing to [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected)! There are many ways to contribute.
 
@@ -34,6 +36,7 @@ We also have a Gitter room, so we could [chat there!](https://gitter.im/Educatio
 
 
 
+
 Hey, even if you are not getting involved, you could help a lot just by spreading the word about the project so others can join and help!! 
 This link is a nice way of sharing.  Thanks!!
 
@@ -41,7 +44,9 @@ This link is a nice way of sharing.  Thanks!!
 
 
 ### Participation Guidelines
-This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email: mgrueser@evc.org.
+This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). 
+Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email: mgrueser@evc.org.
+
 
 
 
