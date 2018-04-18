@@ -1,4 +1,4 @@
-# Contributing to WAC
+# Contributing to WAC Open Urban-Rural Curriculum Project
 
 Thank you for your interest in contributing to the We Are All Connected Open Urban-Rural Youth Media Curriculum Project! 
 
@@ -20,7 +20,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 There are several ways you can contribute to our open curriculum project.
 
 Primary Goals for the Global Sprint:
-1. Contributors can share lesson plans, documents or other educational material you find useful in our google resource folder here
+1. Contributors can share lesson plans, documents or other educational material you find useful in the [Contributor Resource Google Folder here](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing)
 2. Contributors can provide feedback on our annotated urban-rural curriculum by using our google drive here or our github here
 
 
