@@ -46,3 +46,7 @@ Any questions or comments feel free to message us!
 Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
 
 Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
+
+You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
+
+We also have a Gitter room, so we could [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
