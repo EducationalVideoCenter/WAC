@@ -33,9 +33,12 @@ We also have a Gitter room, so we could [chat there!](https://gitter.im/Educatio
 [Take a look at the contributing file here!](CONTRIBUTING.md)
 
 
-### Participation Guidelines
-
+#### Participation Guidelines
 This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email: mgrueser@evc.org.
+
+
+Hey, even if you are not getting involved, you could help a lot just by spreading the word about the project so others can join and help!! 
+This link is a nice way of sharing.  Thanks!!
 
 ### Contact Us:
 Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
@@ -50,6 +53,7 @@ Thank you so much for visiting the EVC We Are All Connected repository!!
 Danke schön! Merci beaucoup! Gracias! Obrigad@!  
 
 We hope that you'll join us on this amazing journey to make collaborative media with rural communities.
+
 
 ![alt text](https://github.com/EducationalVideoCenter/WAC/blob/master/images/Screen%20Shot%202018-04-17%20at%208.31.02%20PM.png)
 
