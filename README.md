@@ -33,12 +33,13 @@ We also have a Gitter room, so we could [chat there!](https://gitter.im/Educatio
 [Take a look at the contributing file here!](CONTRIBUTING.md)
 
 
-#### Participation Guidelines
-This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email: mgrueser@evc.org.
-
-
 Hey, even if you are not getting involved, you could help a lot just by spreading the word about the project so others can join and help!! 
 This link is a nice way of sharing.  Thanks!!
+
+
+### Participation Guidelines
+This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email: mgrueser@evc.org.
+
 
 ### Contact Us:
 Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
