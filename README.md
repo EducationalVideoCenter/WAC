@@ -6,7 +6,7 @@
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/EducationalVideoCenter/Lobby)
 
-## Welcome! :smiley:
+### Welcome! :smiley:
 
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
 Thank you for visiting the EVC We Are All Connected Curriculum repository!
@@ -22,30 +22,31 @@ We are developing this open curriculum as a resource to teach filmmaking in urba
 Our urban-rural program, [We Are All Connected](https://www.weareallconnected.wixsite.com/weareallconnected), is currently working with youth in New York City and the Appalachian Mountain region of Tennessee to create collaborative documentary films.
 
 ## How can you help?
-Thanks for your interest in contributing to [We Are All Connected]! There are many ways to contribute.
+Thanks for your interest in contributing to [We Are All Connected](https://www.weareallconnected.wixsite.com/weareallconnected)! There are many ways to contribute.
 
 You can start by saying "hello" here and talking a little about yourself.
+
 We also have a Gitter room, so we can [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
 
 [Take a look at the contributing file here!](CONTRIBUTING.md)
 
 
-## Participation Guidelines
+### Participation Guidelines
 
-This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email:[mgrueser@evc.org].
+This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email: mgrueser@evc.org.
 
-## Contact Us:
-Mary Grueser, EVC Director of Professional Development:  [mgrueser@evc.org]
+### Contact Us:
+Mary Grueser, EVC Director of Professional Development:  mgrueser@evc.org
 
-Emmanuel Garcia, EVC Senior Media Coach: [emmanuelgarciab@gmail.com]
+Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
 
 We also can also have a [Gitter room chat here](https://gitter.im/EducationalVideoCenter/Lobby)
 
-## Thank You!! :smiley:
+### Thank You!! :smiley:
 Thank you so much (Danke schön! Merci beaucoup! Gracias! Obrigad@!) for visiting the project and we do hope that you'll join us on this amazing journey to make collaborative media with rural communities.
 
 
-## MozSprint
+### MozSprint
 
 Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) May 9-10, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
 
