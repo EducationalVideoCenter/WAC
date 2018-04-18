@@ -51,7 +51,7 @@ Danke schön! Merci beaucoup! Gracias! Obrigad@!
 
 We hope that you'll join us on this amazing journey to make collaborative media with rural communities.
 
-![alt text](https://github.com/EducationalVideoCenter/WAC/blob/master/images/Screen%20Shot%202018-04-17%20at%208.31.02%20PM.png)
+###![alt text](https://github.com/EducationalVideoCenter/WAC/blob/master/images/Screen%20Shot%202018-04-17%20at%208.31.02%20PM.png)
 
 
 ### MozSprint
