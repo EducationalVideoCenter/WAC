@@ -9,16 +9,18 @@
 ### Welcome! :smiley:
 
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
+
 Thank you for visiting the EVC We Are All Connected Curriculum repository!
    
 
 ### What is this about?
-[Educational Video Center](https://www.evc.org), a youth media organization with over 30 years of experience making documentaries with youth is working to develop an urban-rural curriculum to bring youth across cultures and continents together to realize media projects.
+[Educational Video Center](https://www.evc.org), a youth media organization with over 30 years of experience making documentaries with youth is working to develop an urban-rural curriculum to bring youth across cultures and continents together to make media projects.
 
 Our curriculum is project-based, student-centered and grounded in social justice and civic engagement.  
  
 ### Why?
-We are developing this open curriculum as a resource to teach filmmaking in urban and rural communities around the world and need your input!!  
+We need your input to develope this open curriculum as a resource to teach filmmaking in urban and rural communities around the world!!
+
 Our urban-rural program, [We Are All Connected](https://www.weareallconnected.wixsite.com/weareallconnected), is currently working with youth in New York City and the Appalachian Mountain region of Tennessee to create collaborative documentary films.
 
 ## How can you help?
@@ -26,7 +28,7 @@ Thanks for your interest in contributing to [We Are All Connected](https://www.w
 
 You can start by saying "hello" here and talking a little about yourself.
 
-We also have a Gitter room, so we can [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
+We have a Gitter room, so we can [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
 
 [Take a look at the contributing file here!](CONTRIBUTING.md)
 
@@ -43,7 +45,11 @@ Emmanuel Garcia, EVC Senior Media Coach: emmanuelgarciab@gmail.com
 We also can also have a [Gitter room chat here](https://gitter.im/EducationalVideoCenter/Lobby)
 
 ### Thank You!! :smiley:
-Thank you so much (Danke schön! Merci beaucoup! Gracias! Obrigad@!) for visiting the project and we do hope that you'll join us on this amazing journey to make collaborative media with rural communities.
+Thank you so much for visiting the EVC We Are All Connected repository!! 
+
+Danke schön! Merci beaucoup! Gracias! Obrigad@!  
+
+We hope that you'll join us on this amazing journey to make collaborative media with rural communities.
 
 
 ### MozSprint
