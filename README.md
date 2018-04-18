@@ -6,73 +6,43 @@
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/EducationalVideoCenter/Lobby)
 
-# Welcome! :smiley:
+## Welcome! :smiley:
 
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
-Thank you for visiting the We Are All Connected Curriculum repository.
-This document (the README file) is a hub to give you some information about the project. 
+Thank you for visiting the EVC We Are All Connected Curriculum repository!
+   
 
-# WAC
-We Are All Connected youth media curriculum: Bridging urban and rural divides through collaborative youth empowered media.   
+### What is this about?
+[Educational Video Center](https://www.evc.org), a youth media organization with over 30 years of experience making documentaries with youth is working to develop an urban-rural curriculum to bring youth across cultures and continents together to realize media projects.
 
-### The Project
-There is a societal urban/rural divide among communities in the United States and beyond
-Young people aren’t provided enough resources, opportunities and guidance for connecting with youth from different spaces to collaboratively address issues that are meaningful to them 
-Many educators may be interested in facilitating cross regional projects that connect youth, but lack the experience and guidance on how to carry out such projects.
-
-## Who are we?
-Based in the heart of New York City with over thirty years of experience, the Educational Video Center is an urban youth media organization interested in collaborating with rural partners in the United States and internationally to bring youth across cultures and continents together to realize a media project.
-
-Our curriculum is project-based, student-centered and grounded in social justice and civic engagement.  Please feel free to contribute to this curriculum if you would like to share lessons, activities and urban / rural project development tips.
+Our curriculum is project-based, student-centered and grounded in social justice and civic engagement.  
  
-### What are we doing?
-The We are All Connected open educational resource site works to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world  
+### Why?
+We are developing this open curriculum as a resource to teach filmmaking in urban and rural communities around the world and need your input!!  
+Our urban-rural program, [We Are All Connected](https://www.weareallconnected.wixsite.com/weareallconnected), is currently working with youth in New York City and the Appalachian Mountain region of Tennessee to create collaborative documentary films.
 
-### How can I get involved?
-Use our Curriculum!!
+## How can you help?
+Thanks for your interest in contributing to [We Are All Connected]! There are many ways to contribute.
 
-Contribute to our curriculum!!
+You can start by saying "hello" here and talking a little about yourself.
+We also have a Gitter room, so we can [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
 
-Let’s do a project together!!
+[Take a look at the contributing file here!](CONTRIBUTING.md)
 
-Help us raise funds to work partner with rural organizations and their youth!
- 
-The We Are All Connected Youth Media Curriculum will:
-
-1.  Create a space for urban and rural youth to collaboratively create films and other media projects about their communities, building relationships with each other 
-
-2.  Provide lessons and other sources of information that guide urban and rural educators from all levels of experience with film and media technology on how to facilitate collaborative youth media projects. 
-
-## Contributing
-
-Thanks for your interest in contributing to [We Are All Connected]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mgrueser@evc.org].
-
-## Find out more
-You might be interested in our [Open Canvas plan](https://docs.google.com/presentation/d/1iQTmLv9rVd47jRD1ozcyJC_FLXDXRTGRAePbutv_QXk/edit#slide=id.p)
-
-And of course, you'll want to know our [Roadmap](https://docs.google.com/document/d/10nQy5H2l_6frIkL_o66cnAstM_rcBcuinYP2PUcjD14/edit)
-
-## Check us out:
-[EVC Organizational Website](https://www.evc.org)
-
-[We Are All Connected Urban / Rural Project](https://www.weareallconnected.wixsite.com/weareallconnected)
+This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email:[mgrueser@evc.org].
 
 ## Contact Us:
 Mary Grueser, EVC Director of Professional Development:  [mgrueser@evc.org]
 
 Emmanuel Garcia, EVC Senior Media Coach: [emmanuelgarciab@gmail.com]
 
-We also have a Gitter room, [so we can chat here](https://gitter.im/EducationalVideoCenter/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+We also can also have a [Gitter room chat here](https://gitter.im/EducationalVideoCenter/Lobby)
 
 ## Thank You!! :smiley:
 Thank you so much (Danke schön! Merci beaucoup! Gracias! Obrigad@!) for visiting the project and we do hope that you'll join us on this amazing journey to make collaborative media with rural communities.
-
-
-## Glossary:
 
 
 ## MozSprint
