@@ -45,6 +45,7 @@ This link is a nice way of sharing.  Thanks!!
 
 ### Participation Guidelines
 This project was built as part of the Mozilla Open Leadership Training 2018 and we are sticking to Mozilla Community Participation Guidelines [here](CODE_OF_CONDUCT.md). 
+
 Please report unacceptable behavior to Mary Grueser, EVC Director of Professional Development Programs at this email: mgrueser@evc.org.
 
 
