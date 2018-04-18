@@ -21,10 +21,10 @@ Our curriculum is project-based, student-centered and grounded in social justice
 ### Why?
 We need your input to develope this open curriculum as a resource to teach filmmaking in urban and rural communities around the world!!
 
-Our urban-rural program, [We Are All Connected](https://www.weareallconnected.wixsite.com/weareallconnected), is currently working with youth in New York City and the Appalachian Mountain region of Tennessee to create collaborative documentary films.
+Our urban-rural program, [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected), is currently working with youth in New York City and the Appalachian Mountain region of Tennessee to create collaborative documentary films.
 
 ## How can you help?
-Thanks for your interest in contributing to [We Are All Connected](https://www.weareallconnected.wixsite.com/weareallconnected)! There are many ways to contribute.
+Thanks for your interest in contributing to [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected)! There are many ways to contribute.
 
 You can start by saying "hello" here and talking a little about yourself.
 
