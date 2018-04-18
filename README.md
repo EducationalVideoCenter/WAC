@@ -28,7 +28,7 @@ Our urban-rural program, [We Are All Connected](https://weareallconnected.wixsit
 ### HOW CAN YOU HELP?
 Thanks for your interest in contributing to [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected)! There are many ways to contribute.
 
-You can start by saying "hello" here and talking a little about yourself.
+You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
 We also have a Gitter room, so we could [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
 
