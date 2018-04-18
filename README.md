@@ -28,7 +28,7 @@ Thanks for your interest in contributing to [We Are All Connected](https://weare
 
 You can start by saying "hello" here and talking a little about yourself.
 
-We have a Gitter room, so we can [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
+We also have a Gitter room, so we could [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
 
 [Take a look at the contributing file here!](CONTRIBUTING.md)
 
