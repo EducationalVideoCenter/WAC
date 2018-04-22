@@ -1,20 +1,21 @@
-**CHOOSING A DOCUMENTARY FILM TOPIC **
+# CHOOSING A DOCUMENTARY FILM TOPIC 
 
+**_Objective:_**
 -   Students will demonstrate ability to make a persuasive argument as they “pitch their idea.”
 
 -   Students will become familiar with consensus decision-making.
 
-Materials/Equipment:
+**_Materials/Equipment:_**
 
 -   Newsprint from “Wall Talk” Activity
 
-**Warm Up: **
+**_Warm Up:_**
 
 **Prepare for Pitches (10 min)**
 
 Ask students to gather with their group to revisit the persuasive arguments they created as a group last lesson. They should make sure that all group members have a role in pitching their argument to the class.
 
-**Lesson:**
+**_Lesson:_**
 
 **1. Group Presentations (25 min)**
 
@@ -50,7 +51,7 @@ Ask students to gather with their group to revisit the persuasive arguments they
 
 -   Give students the chance to reflect on the decision-making process and to voice their thoughts on the problem that has been selected. Remind them, however, that the group has gone through a democratic process to select this issue and that all group members now need to focus on creating a meaningful and exciting documentary, regardless of whether it was their first choice.
 
-**Journal:**
+**_Journal:_**
 
 Address the following 3 questions:
 
