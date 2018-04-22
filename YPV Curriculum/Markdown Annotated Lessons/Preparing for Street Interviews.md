@@ -1,4 +1,6 @@
-**Objectives:**
+# Preparing for Street Interviews
+
+**_Objectives:_**
 
 -   Students will recognize the importance of the street interview.
 
@@ -8,7 +10,9 @@
 
 -   Students will be able to differentiate between different setups and shots for shooting a street interview.
 
-**Materials/Equipment:**
+<br><br>
+
+**_Materials/Equipment:_**
 
 -   DV Camera
 
@@ -24,16 +28,19 @@
 
 -   RCA Female-to-female Adapter
 
+
 **Handouts:**
 
 -   Crew Roles and Responsibilities for Interviews
 
 -   Shot Sheet
 
-Preparation for Lesson:
+<br><br>
+
+### **_Preparation for Lesson:_**
 -----------------------
 
-View “Preparing for Street Interviews” on the Teacher DVD (3 min)
+### View “Preparing for Street Interviews” on the Teacher DVD (3 min)
 -----------------------------------------------------------------
 
 *Notice how the teacher uses a role-playing activity to address the role of the scout. As students learn from each other, you’ll see the progression from the first student who is unsure of how to stop someone on the street, to the second who struggles with introducing himself and the project, to the third who is more confident in his communication skills but needs to be reminded about microphone placement and the importance of not chewing gum during an interview!*
@@ -44,11 +51,15 @@ View “Preparing for Street Interviews” on the Teacher DVD (3 min)
 
 *It is best if students have multiple opportunities to conduct interviews ‘on the street.’ This will give them a chance to learn from their experience and to feel more comfortable in the various crew roles so that when they conduct interviews for their final documentary they will obtain useable footage. However, if you have a shorter time frame, students may do street interviews only once.*
 
+<br><br>
+
 **Warm Up:**
 
 **Journal Entry: (10 min)**
 
 > Write about which shows on TV you have seen that include interviews with people on the street. Describe a few people who were interviewed, what they talked about and what they think the interviewer gained from asking strangers for their opinion on a particular topic.
+
+<br><br>
 
 **Lesson:**
 
@@ -147,8 +158,12 @@ Journal:
 <p>include such subjects in street interviews as workers of store-fronts / restaurants / or gas</p>
 <p>stations.</p>
 <p><em>Note: Filming Permits and regulations may be more present in urban vs. rural areas.</em></p>
-<p><em>Click <strong>HERE</strong> to view a conversation on <strong>accessibility</strong> from EVC students and educators reflecting </em></p>
-<p><em>on the differences in producing a documentary in New York City and Clearfork Valley, Tennessee.</em></p></td>
+ 
+![alt text](https://github.com/EducationalVideoCenter/WAC/blob/master/images/FilmLogo.png)
+
+<p><em> <span class="underline"><a href="https://drive.google.com/file/d/1dTE_C9xAyj2N8iGgSZT1XiWixAROUw2c/view?usp=sharing">Click HERE to view a conversation on Accessibility to Subjects</a> from EVC students and educators reflecting 
+   on the differences in producing a documentary in New York City and Clearfork Valley, Tennessee.
+ </span></em></p></td>
 </tr>
 </tbody>
 </table>
