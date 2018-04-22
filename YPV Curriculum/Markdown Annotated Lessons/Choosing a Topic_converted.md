@@ -1,4 +1,4 @@
-# CHOOSING A DOCUMENTARY FILM TOPIC 
+# CHOOSING A DOCUMENTARY FILM TOPIC
 
 **_Objective:_**
 -   Students will demonstrate ability to make a persuasive argument as they “pitch their idea.”
@@ -97,7 +97,7 @@ Address the following 3 questions:
 <li><p>In a less densely populated community, there may be more awareness of the students’ work - during the process of production and on the final product</p></li>
 <li><p>Relationships are more closely interconnected and exploring a community issue may have implications on students’ personal relationships</p></li>
 </ul>
-  
+
 ![alt text](https://github.com/EducationalVideoCenter/WAC/blob/master/images/FilmLogo.png)
   
 <p><em>For a conversation on this see the following video clip of students and educators reflecting on the differences they experienced producing a documentary on opioid addiction in urban New York and rural Tennessee: <span class="underline"><a href="https://drive.google.com/file/d/1PDbiNOrF0f_ewKCS2yTAmsM3W5nR9iBy/view?usp=sharing">Click here to watch - Accountability to Subjects</a> </span></em></p></td>
