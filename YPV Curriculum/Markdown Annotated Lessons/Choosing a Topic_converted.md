@@ -1,3 +1,5 @@
+**CHOOSING A DOCUMENTARY FILM TOPIC **
+
 -   Students will demonstrate ability to make a persuasive argument as they “pitch their idea.”
 
 -   Students will become familiar with consensus decision-making.
