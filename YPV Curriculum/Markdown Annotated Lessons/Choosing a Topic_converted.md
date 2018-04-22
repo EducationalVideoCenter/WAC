@@ -5,11 +5,13 @@
 
 -   Students will become familiar with consensus decision-making.
 
+<br><br>
 
 **_Materials/Equipment:_**
 
 -   Newsprint from “Wall Talk” Activity
 
+<br><br>
 
 **_Warm Up:_**
 
@@ -17,6 +19,7 @@
 
 Ask students to gather with their group to revisit the persuasive arguments they created as a group last lesson. They should make sure that all group members have a role in pitching their argument to the class.
 
+<br><br>
 
 **_Lesson:_**
 
@@ -64,6 +67,8 @@ Address the following 3 questions:
 
 3.  What are your hopes and fears about this YPAR documentary?
 
+<br><br>
+
 <table>
 <tbody>
 <tr class="odd">
@@ -92,7 +97,9 @@ Address the following 3 questions:
 <li><p>In a less densely populated community, there may be more awareness of the students’ work - during the process of production and on the final product</p></li>
 <li><p>Relationships are more closely interconnected and exploring a community issue may have implications on students’ personal relationships</p></li>
 </ul>
-<p><img src="media/image1.png" style="width:0.67188in;height:0.67188in" /></p>
+  
+![alt text](https://github.com/EducationalVideoCenter/WAC/blob/master/images/FilmLogo.png)
+  
 <p><em>For a conversation on this see the following video clip of students and educators reflecting on the differences they experienced producing a documentary on opioid addiction in urban New York and rural Tennessee: <span class="underline"><a href="https://drive.google.com/file/d/1PDbiNOrF0f_ewKCS2yTAmsM3W5nR9iBy/view?usp=sharing">Click here to watch - Accountability to Subjects</a> </span></em></p></td>
 </tr>
 </tbody>
