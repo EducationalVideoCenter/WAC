@@ -5,15 +5,18 @@
 
 -   Students will become familiar with consensus decision-making.
 
+
 **_Materials/Equipment:_**
 
 -   Newsprint from “Wall Talk” Activity
+
 
 **_Warm Up:_**
 
 **Prepare for Pitches (10 min)**
 
 Ask students to gather with their group to revisit the persuasive arguments they created as a group last lesson. They should make sure that all group members have a role in pitching their argument to the class.
+
 
 **_Lesson:_**
 
