@@ -28,14 +28,17 @@ Our urban-rural program, [We Are All Connected](https://weareallconnected.wixsit
 ### HOW CAN YOU HELP?
 Thanks for your interest in contributing to [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected)! There are many ways to contribute.
 
-You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
+1. You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
-We also have a Gitter room, so we could [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
+2. Check out our document that discusses the characterstics and distinctions of urban and rural contexts. Feel free to provide comments, additions, or any other feedback for modifications:
 
-[Take a look at the contributing file here!](CONTRIBUTING.md)
+[Google Doc version here](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 
+[GitHub version here](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)  
 
+3. For more ways to contribute [Take a look at the contributing file here!](CONTRIBUTING.md)
 
+4. We also have a Gitter room, so we could [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
 
 Hey, even if you are not getting involved, you could help a lot just by spreading the word about the project so others can join and help!! 
 This link is a nice way of sharing.  Thanks!!
