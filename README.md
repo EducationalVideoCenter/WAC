@@ -30,11 +30,7 @@ Thanks for your interest in contributing to [We Are All Connected](https://weare
 
 1. You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
-2. You can also check out a document we're developing that discusses the characteristics and distinctions of facilitating youth driven work in urban and rural spaces. Feel free to provide comments, additions, or any other feedback for modifications:
-
-[Google Doc version here](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
-
-[GitHub version here](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)    
+2. You can also check out a document we're developing that discusses the characteristics and distinctions of facilitating youth driven work in urban and rural spaces. Feel free to provide comments, additions, or any other feedback for modifications via:[Google Doc file](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) or our [GitHub File](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)    
 
 3. For more ways to contribute [take a look at the contributing file here!](CONTRIBUTING.md)
 
