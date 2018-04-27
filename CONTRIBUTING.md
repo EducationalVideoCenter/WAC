@@ -6,8 +6,8 @@ WAC is an open educational resource site working to bridge the urban/rural and d
 
 
 **ANYONE can contribute to our project**
-
-In particular people with skill sets and / or interests in any of the following areas can help us with our project:  media, filmmaking, education, community organizing, activism, technology, youth development and urban-rural coalition building 
+In particular people with skill sets and / or interests in any of the following areas can help us with our project:
+Media, filmmaking, education, community organizing, activism, technology, youth development and urban-rural coalition building. 
 
 This documents is a set of guidelines for contributing to WAC on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
