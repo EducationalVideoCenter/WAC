@@ -30,7 +30,7 @@ Thanks for your interest in contributing to [We Are All Connected](https://weare
 
 1. You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
-2. You can also check out a document we're developing that discusses the characterstics and distinctions of urban and rural contexts. Feel free to provide comments, additions, or any other feedback for modifications:
+2. You can also check out a document we're developing that discusses the characterstics and distinctions of facilitating youth driven work in urban and rural settings. Feel free to provide comments, additions, or any other feedback for modifications:
 
 [Google Doc version here](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 
