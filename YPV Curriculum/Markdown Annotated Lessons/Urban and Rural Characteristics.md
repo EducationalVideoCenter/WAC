@@ -1,4 +1,4 @@
-# URBAN AND RURAL CHARACTERISTICS
+# Urban and Rural Qualities 
 
 ***What characteristics and distinctions about urban and rural contexts should be reflected in our curriculum? In what form can it be included?***
 
