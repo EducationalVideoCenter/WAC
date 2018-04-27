@@ -5,7 +5,7 @@ Thank you for your interest in contributing to the We Are All Connected Open Urb
 WAC is an open educational resource site working to bridge the urban/rural and digital equity divides. This digital media curriculum fosters dialogues among rural/urban youth, addresses project challenges in rural areas, embodies social justice/digital equity values & best practices of urban & place-based rural pedagogies. This model of digital media teaching/learning is open to be shared and contributed to by sister organizations and digital youth media educators/practitioners from urban and rural communities around the world....
 
 
-**ANYONE can contribute to our project**
+**ANYONE can contribute to our project!**
 In particular people with skill sets and / or interests in any of the following areas can help us with our project:
 Media, filmmaking, education, community organizing, activism, technology, youth development and urban-rural coalition building. 
 
