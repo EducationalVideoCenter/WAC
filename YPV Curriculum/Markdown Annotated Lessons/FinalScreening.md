@@ -1,3 +1,10 @@
+# Final Screening
+
+_It’s important to treat the screening as an important event by creating a comfortable screening space. EVC screenings are often held in the school cafeteria, but tables and chairs are moved to mimic a theater and refreshments are served. Notice how excited and nervous students are to screen their documentaries and to answer questions from the audience. Notice too their sense of pride and accomplishment after the screening as they receive congratulations from family members, teachers, friends and members of the community._
+
+<br><br>
+
+**_Materials/Equipment:_**
 -   Final documentary on appropriate format (DVD, DV tape or VHS)
 
 -   TV with Camera, VCR or DVD player or Computer with Projector
@@ -12,16 +19,11 @@
 
 -   Beverages and Snacks (optional)
 
-**Before the screening:**
+<br><br>
 
-1. View “Final Screening” on the Teacher DVD (8 min)
-====================================================
+**_Before the screening:_**
 
-*It’s important to treat the screening as an important event by creating a comfortable screening space. EVC screenings are often held in the school cafeteria, but tables and chairs are moved to mimic a theater and refreshments are served. Notice how excited and nervous students are to screen their documentaries and to answer questions from the audience. Notice too their sense of pride and accomplishment after the screening as they receive congratulations from family members, teachers, friends and members of the community.*
-================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
-2. Assist Students in Writing Personal Introductions
-====================================================
+**1. Assist Students in Writing Personal Introductions**
 
 -   Tell students that they will each post a personal introduction at the screening. Their introductions should be written in paragraph form.
 
@@ -43,7 +45,7 @@
 
 -   Attach the paragraphs to posterboard or hang directly on the wall so that audience members can see them as they enter the screening. It is also a good idea to include photos of the producers next to their paragraph. Most DV cameras will allow you to take still photos or you can use a digital still camera. Using photo quality paper to print the photos will improve the quality, but is not necessary.
 
-**3. Prepare for the Question and Answer Session**
+**2. Prepare for the Question and Answer Session**
 
 -   Inform students that following the screening there will be a short question and answer period. This is a time for the audience to offer congratulations on a job well done and to ask the student producers about the process they have undergone as well as about their topic.
 
@@ -65,11 +67,13 @@
 
 -   Instruct all students to speak loudly when answering questions and to take turns answering questions.
 
-**4. Purchase Refreshments **
+**3. Purchase Refreshments**
 
 -   If the venue and your budget allows, it makes the event even more special if refreshments are available. Purchase snacks such as popcorn or cookies, as well as drinks for the big day. Don’t forget the paper plates, cups and napkins!
 
-**The Day of the Screening: **
+<br><br>
+
+**_The Day of the Screening:_**
 
 **1. Deliver the Final Tape or DVD**
 
@@ -87,8 +91,7 @@
 
 -   Make the refreshments available.
 
-3. Welcome Your Guests!
-=======================
+**3. Welcome Your Guests!**
 
 -   As guests enter, give them time to read through the students’ personal narratives.
 
