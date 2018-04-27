@@ -30,9 +30,9 @@ or
 
 
 2. Contributors can provide feedback on some of our annotated urban-rural lessons via [Google Drive](https://drive.google.com/drive/folders/1awuFaVIX5OQVmXiw8nV99NdoThgoI-kc) or our [Github](https://github.com/EducationalVideoCenter/WAC/tree/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons) 
+<br><br>
 
-
-Long Term ways to get involved:
+#### Long Term ways to get involved:
 1. Let us know if you're interested in using our [Youth Powered Video Curriculum](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Full%20Curriculum.md)! What type of project do you have in mind?
 2. Start a conversation about doing a project together here
 3. Help us think about how to raise money to continue working with rural communities and their youth here
