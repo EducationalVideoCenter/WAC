@@ -1,4 +1,4 @@
-# URBAN AND RURAL CONTEXT CHARACTERISTICS
+# URBAN AND RURAL CHARACTERISTICS
 
 ***What have we learned from the Urban/Rural Tennessee collaboration that needs to be reflected in the curriculum? In what form can it be included?***
 
