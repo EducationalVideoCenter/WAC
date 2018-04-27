@@ -20,16 +20,16 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 There are several ways you can contribute to our open curriculum project.
 
 Primary Goals for the Global Sprint:
-1. Contributors can share lesson plans, documents or other educational material you find useful in either our
+1. You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
-[Contributor Resource Google Folder here](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing)
-
+2. You can also check out a document we're developing that discusses the characteristics and distinctions of facilitating youth driven work in urban and rural spaces. Feel free to provide comments, additions, or any other feedback for modifications via: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 or
+[GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)
 
-[Contributor Resource GitHub Folder here](https://github.com/EducationalVideoCenter/WAC/tree/master/Contributor%20Resource%20Folder) 
+1. Contributors can share lesson plans, documents or other educational material you find useful in either our [GOOGLE Contributor Resource Folder here](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing) or our [GITHUB Contributor Resource Folder here](https://github.com/EducationalVideoCenter/WAC/tree/master/Contributor%20Resource%20Folder) 
 
 
-2. Contributors can provide feedback on some of our annotated urban-rural lessons via google drive here or our github here
+2. Contributors can provide feedback on some of our annotated urban-rural lessons via [Google Drive here](https://drive.google.com/drive/folders/1awuFaVIX5OQVmXiw8nV99NdoThgoI-kc) or our [Github here](https://github.com/EducationalVideoCenter/WAC/tree/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons) 
 
 
 Long Term ways to get involved:
