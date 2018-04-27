@@ -20,8 +20,16 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 There are several ways you can contribute to our open curriculum project.
 
 Primary Goals for the Global Sprint:
-1. Contributors can share lesson plans, documents or other educational material you find useful in the [Contributor Resource Google Folder here](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing)
-2. Contributors can provide feedback on our annotated urban-rural curriculum by using our google drive here or our github here
+1. Contributors can share lesson plans, documents or other educational material you find useful in either our
+
+[Contributor Resource Google Folder here](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing)
+
+or
+
+[Contributor Resource GitHub Folder here](https://github.com/EducationalVideoCenter/WAC/tree/master/Contributor%20Resource%20Folder) 
+
+
+2. Contributors can provide feedback on some of our annotated urban-rural lessons via google drive here or our github here
 
 
 Long Term ways to get involved:
