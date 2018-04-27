@@ -1,4 +1,8 @@
+# URBAN AND RURAL CONTEXT CHARACTERISTICS
+
 ***What have we learned from the Urban/Rural Tennessee collaboration that needs to be reflected in the curriculum? In what form can it be included?***
+
+<br><br>
 
 1.  What does accountability and representation in the film production process look like in urban vs rural settings?
 
@@ -11,6 +15,8 @@
 | Greater acceptance and freedom in approaches to questioning and denouncing power structures in communities. | Informed decisions must be made in questioning and denouncing power structures in communities. Power structures are more interconnected with personal relationships.      |
 | Students can feel more empowered to take ownership in how they tell the story                               | The community will hold students accountable for their storytelling decisions and accuracy.                                                                               |
 | Access to technology (range of equipment options, strong internet etc)                                      | Limited access to technology / equipment / internet.                                                                                                                      |
+
+<br><br>
 
 > 2. What other things have we learned from Urban / Rural TN Collaboration that needs to be reflected in the curriculum?
 
@@ -39,5 +45,7 @@
 </tr>
 </tbody>
 </table>
+
+<br><br>
 
 3. In what form can these observations be included in the curriculum?
