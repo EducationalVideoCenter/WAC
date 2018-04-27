@@ -22,7 +22,7 @@ There are several ways you can contribute to our open curriculum project.
 Primary Goals for the Global Sprint:
 1. You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
-2. Have you lived or worked in an urban and/or rural setting? Did we get this right? We'd love to get your thoughts: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
+2. Have you lived or worked in an urban and/or rural setting? Check out our urban and rural qualities chart. We'd love to get your evalutation and input: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 or
 [GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)
 
