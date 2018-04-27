@@ -34,8 +34,10 @@ or
 
 #### Long Term ways to get involved:
 1. Let us know if you're interested in using our [Youth Powered Video Curriculum](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Full%20Curriculum.md)! What type of project do you have in mind?
-2. Start a conversation about doing a project together here
-3. Help us think about how to raise money to continue working with rural communities and their youth here
+2. Start a conversation about doing a project together 
+3. Help us think about how to raise money to continue working with rural communities and their youth
+
+If interested in any of the above [Contact us and let's talk](#communication-channels)!
 
 
 ## How to submit changes
