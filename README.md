@@ -16,7 +16,7 @@ Thank you for visiting the EVC We Are All Connected Curriculum repository!
 ### What is this about?
 [Educational Video Center](https://www.evc.org), a youth media organization with over 30 years of experience making documentaries with youth is working to develop an urban-rural curriculum to bring youth across cultures and continents together to make media projects.
 
-Our curriculum is project-based, student-centered and grounded in social justice and civic engagement.  
+Our curriculum is project-based, student-centered and grounded in social justice and civic engagement. The full curriculum can be found [here](https://drive.google.com/drive/folders/1p8s9Np4YHY3WpAC7A3QsFp9WH1nGCiIX). 
  
 ### Why?
 We need your input to develope this open curriculum as a resource to teach filmmaking in urban and rural communities around the world!!
