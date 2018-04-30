@@ -31,10 +31,13 @@ Primary Goals for the Global Sprint:
 or
 [GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)
 
-1. Contributors can share lesson plans, documents or other educational material you find useful in either our [GOOGLE Contributor Resource Folder](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing) or our [GITHUB Contributor Resource Folder](https://github.com/EducationalVideoCenter/WAC/tree/master/Contributor%20Resource%20Folder) 
+3. Contributors can share lesson plans, documents or other educational material you find useful in either our [GOOGLE Contributor Resource Folder](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing) or our [GITHUB Contributor Resource Folder](https://github.com/EducationalVideoCenter/WAC/tree/master/Contributor%20Resource%20Folder) 
 
 
-2. Contributors can provide feedback on some of our annotated urban-rural lessons via [Google Drive](https://drive.google.com/drive/folders/1awuFaVIX5OQVmXiw8nV99NdoThgoI-kc) or our [Github](https://github.com/EducationalVideoCenter/WAC/tree/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons) 
+4. Contributors can provide feedback on some of our annotated urban-rural lessons via [Google Drive](https://drive.google.com/drive/folders/1awuFaVIX5OQVmXiw8nV99NdoThgoI-kc) or our [Github](https://github.com/EducationalVideoCenter/WAC/tree/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons) 
+
+
+5. Do you know of any individuals or organizations that we may want to collaborate with? [Let us know!](#communication-channels)
 <br><br>
 
 #### Long Term ways to get involved:
