@@ -34,7 +34,7 @@ Thanks for your interest in contributing to [We Are All Connected](https://weare
 
 2. Have you lived or worked in an urban and/or rural setting? Check out our urban and rural qualities chart. We'd love to get your evaluation and input: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 or
-[GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)  
+[GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Qualities.md)  
 
 3. For more ways to contribute [take a look at the contributing file here!](CONTRIBUTING.md)
 
