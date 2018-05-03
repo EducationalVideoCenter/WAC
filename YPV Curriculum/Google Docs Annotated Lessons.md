@@ -8,4 +8,6 @@
 
 [4. Final Screening](https://docs.google.com/document/d/1dzdUreaVIj6jSYRgYoYH-iI1k2GsJBukWIUVdE-J_Ts/edit)
 
+[Urban and Rural Characterstics Chart](https://drive.google.com/open?id=1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY)
+
 Full Curriculum [*Here*](https://drive.google.com/drive/folders/1p8s9Np4YHY3WpAC7A3QsFp9WH1nGCiIX?usp=sharing)
