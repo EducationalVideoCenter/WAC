@@ -30,15 +30,22 @@ Our urban-rural program, [We Are All Connected](https://weareallconnected.wixsit
 ### HOW CAN YOU HELP?
 Thanks for your interest in contributing to [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected)! There are many ways to contribute.
 
+There are several ways you can contribute to our open curriculum project.
+
+Primary Goals for the Global Sprint:
 1. You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
-2. Have you lived or worked in an urban and/or rural setting? Check out our urban and rural qualities chart. We'd love to get your evaluation and input: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
+2. Have you lived or worked in an urban and/or rural setting? Check out our urban and rural qualities chart. We'd love to get your evalutation and input: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 or
-[GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Qualities.md)  
+[GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Qualities.md)
 
-3. For more ways to contribute [take a look at the contributing file here!](CONTRIBUTING.md)
+3. Contributors can share lesson plans, documents or other educational material you find useful in either our [GOOGLE Contributor Resource Folder](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing) or our [GITHUB Contributor Resource Folder](https://github.com/EducationalVideoCenter/WAC/tree/master/Contributor%20Resource%20Folder) 
 
-4. We also have a Gitter room, so we could [chat there!](https://gitter.im/EducationalVideoCenter/Lobby)
+
+4. Contributors can provide feedback on some of our annotated urban-rural lessons via [Google Drive](https://drive.google.com/drive/folders/1awuFaVIX5OQVmXiw8nV99NdoThgoI-kc) or our [Github](https://github.com/EducationalVideoCenter/WAC/tree/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons) 
+
+
+5. Do you know of any individuals or organizations that you feel we may want to learn more about? Potential collaborators? [Let us know!](#communication-channels)
 
 Hey, even if you are not getting involved, you could help a lot just by spreading the word about the project so others can join and help!! 
 This link is a nice way of sharing.  Thanks!!
