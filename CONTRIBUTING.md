@@ -29,7 +29,7 @@ Primary Goals for the Global Sprint:
 
 2. Have you lived or worked in an urban and/or rural setting? Check out our urban and rural qualities chart. We'd love to get your evalutation and input: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 or
-[GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)
+[GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Qualities.md)
 
 3. Contributors can share lesson plans, documents or other educational material you find useful in either our [GOOGLE Contributor Resource Folder](https://drive.google.com/drive/folders/1FZu6nEJjj0ZaGJmOw8c4chVAC5sx1FgB?usp=sharing) or our [GITHUB Contributor Resource Folder](https://github.com/EducationalVideoCenter/WAC/tree/master/Contributor%20Resource%20Folder) 
 
