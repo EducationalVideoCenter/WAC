@@ -16,10 +16,12 @@ Thank you for visiting the EVC We Are All Connected Curriculum repository!
 ### What is this about?
 [Educational Video Center](https://www.evc.org), a youth media organization with over 30 years of experience making documentaries with youth is working to develop an urban-rural curriculum to bring youth across cultures and continents together to make media projects.
 
-Our curriculum is project-based, student-centered and grounded in social justice and civic engagement. The full curriculum can be found [here](https://drive.google.com/drive/folders/1p8s9Np4YHY3WpAC7A3QsFp9WH1nGCiIX). 
+Our curriculum is project-based, student-centered and grounded in social justice and civic engagement. 
+
+See the full curriculum [here](https://drive.google.com/drive/folders/1p8s9Np4YHY3WpAC7A3QsFp9WH1nGCiIX). 
  
 ### Why?
-We need your input to develope this open curriculum as a resource to teach filmmaking in urban and rural communities around the world!!
+We need your input to develop this open curriculum as a resource to teach filmmaking in urban and rural communities around the world!!
 
 Our urban-rural program, [We Are All Connected](https://weareallconnected.wixsite.com/weareallconnected), is currently working with youth in New York City and the Appalachian Mountain region of Tennessee to create collaborative documentary films.
 
@@ -30,7 +32,7 @@ Thanks for your interest in contributing to [We Are All Connected](https://weare
 
 1. You can start by saying ["hello" here](https://github.com/EducationalVideoCenter/WAC/issues/5) and talking a little about yourself.
 
-2. Have you lived or worked in an urban and/or rural setting? Check out our urban and rural qualities chart. We'd love to get your evalutation and input: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
+2. Have you lived or worked in an urban and/or rural setting? Check out our urban and rural qualities chart. We'd love to get your evaluation and input: [Google Docs](https://docs.google.com/document/d/1MAswOOi1dCkss9z91yVW3Ie8K4TyYpJ6XqAW_AlGVxY/edit) 
 or
 [GitHub](https://github.com/EducationalVideoCenter/WAC/blob/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons/Urban%20and%20Rural%20Characteristics.md)  
 
