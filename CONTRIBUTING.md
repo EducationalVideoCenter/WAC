@@ -37,7 +37,7 @@ or
 4. Contributors can provide feedback on some of our annotated urban-rural lessons via [Google Drive](https://drive.google.com/drive/folders/1awuFaVIX5OQVmXiw8nV99NdoThgoI-kc) or our [Github](https://github.com/EducationalVideoCenter/WAC/tree/master/YPV%20Curriculum/Markdown%20Annotated%20Lessons) 
 
 
-5. Do you know of any individuals or organizations that you feel we may want to learn more about? Potential collaborators? [Let us know!](#communication-channels)
+5. Are there any individuals or organizations that you feel we may want to learn more about? Potential collaborators? [Let us know!](#communication-channels)
 <br><br>
 
 #### Long Term ways to get involved:
