@@ -8,6 +8,8 @@
 
 ### Welcome! :smiley:
 
+[![Join the chat at https://gitter.im/EducationalVideoCenter/Lobby](https://badges.gitter.im/EducationalVideoCenter/Lobby.svg)](https://gitter.im/EducationalVideoCenter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
 
 Thank you for visiting the EVC We Are All Connected Curriculum repository!
