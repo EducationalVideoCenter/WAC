@@ -8,8 +8,6 @@
 
 ### Welcome! :smiley:
 
-[![Join the chat at https://gitter.im/EducationalVideoCenter/Lobby](https://badges.gitter.im/EducationalVideoCenter/Lobby.svg)](https://gitter.im/EducationalVideoCenter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Welcome! Willkommen! Bienvenue! Bienvenidos! Bem-vind@s!
 
 Thank you for visiting the EVC We Are All Connected Curriculum repository!
@@ -85,4 +83,4 @@ Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) 
 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
 
-
+Emmanuel and Mary will be sprinting at [Trust for Public Land](https://www.tpl.org/our-work/new-york) on May 10th in NYC from 9am-5pm EST.  On Friday, May 11th Emmanuel and Mary will be available 9am-5pm EST.
